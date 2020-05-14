@@ -1,0 +1,5 @@
+server:
+  compression:
+    enabled: true
+  tomcat:
+    max-connections: 500
